@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="login_footer">developer by Hcode Team</string>
+
+	<string name="weekdayname_0">Domingo</string>
+	<string name="weekdayname_1">Segunda-feira</string>
+	<string name="weekdayname_2">Terça-feira</string>
+	<string name="weekdayname_3">Quarta-feira</string>
+	<string name="weekdayname_4">Quinta-feira</string>
+	<string name="weekdayname_5">Sexta-feira</string>
+	<string name="weekdayname_6">Sábado</string>
+
+	<string name="monthname_1">Janeiro</string>
+	<string name="monthname_2">Fevereiro</string>
+	<string name="monthname_3">Março</string>
+	<string name="monthname_4">Abril</string>
+	<string name="monthname_5">Maio</string>
+	<string name="monthname_6">Junho</string>
+	<string name="monthname_7">Julho</string>
+	<string name="monthname_8">Agosto</string>
+	<string name="monthname_9">Setembro</string>
+	<string name="monthname_10">Outubro</string>
+	<string name="monthname_11">Novembro</string>
+	<string name="monthname_12">Dezembro</string>
+
+	<string name="persons_fisica">Física</string>
+	<string name="persons_juridica">Jurídico</string>
+	<string name="persons_nome">Super Usuário (root)</string>
+
+	<string name="products_course">Curso Udemy</string>
+	<string name="products_shirt">Camiseta</string>
+
+	<string name="users_admin">Administrativo</string>
+	<string name="users_clientes">Cliente</string>
+	<string name="users_root">root</string>
+
+	<string name="menus_dashboard">Dashboard</string>
+	<string name="menus_system">Sistema</string>
+	<string name="menus_admin">Administração</string>
+	<string name="menus_person">Pessoas</string>
+	<string name="menus_type">Tipos</string>
+	<string name="menus_menu">Menu</string>
+	<string name="menus_user">Usuários</string>
+	<string name="menus_config">Configurações</string>
+	<string name="menus_sql_to_class">SQL to CLASS</string>
+	<string name="menus_template">Template</string>
+	<string name="menus_examples">Exemplos</string>
+	<string name="menus_examples_upload">Upload de Arquivos</string>
+	<string name="menus_permissions">Permissões</string>	
+	<string name="menus_product">Produtos</string>
+	<string name="menus_address">Endereços Tipos</string>
+	<string name="menus_user_types">Usuário Tipos</string>
+	<string name="menus_document_types">Documentos Tipos</string>
+	<string name="menus_place_types">Lugares Tipos</string>
+	<string name="menus_coupon_types">Cupons Tipos</string>
+	<string name="menus_product_types">Produtos Tipos</string>
+	<string name="menus_order_status">Pedidos Status</string>
+	<string name="menus_person_types">Pessoas Tipos</string>
+	<string name="menus_contact_types">Contatos Tipos</string>
+	<string name="menus_gateways">Gateways</string>
+	<string name="menus_log_types">Historicos Tipos</string>
+	<string name="menus_order_methods">Formas de Pagamentos</string>
+	<string name="menus_person_values">Pessoas Valores Campos</string>
+	<string name="menus_config_types">Configurações Tipos</string>
+	<string name="menus_carousel_types">Carousels Items Tipos</string>
+	<string name="menus_negotiation_types">Pedidos Negociações Tipos</string>	
+	<string name="menus_orders">Pedidos</string>
+	<string name="menus_carts">Carrinhos</string>
+	<string name="menus_places">Lugares</string>
+	<string name="menus_site">Site</string>
+	<string name="menus_site_menu">Menu</string>
+	<string name="menus_fluxodecaixa">Fluxo de Caixa</string>
+	<string name="menus_site_testimonial">Depoimentos</string>
+	<string name="menus_team">Equipe</string>
+	<string name="menus_jobs_positions">Cargos</string>
+	<string name="menus_social_networks">Redes Sociais</string>
+
+	<string name="menus_courses">Cursos</string>
+	<string name="menus_carousels">Carousels</string>
+	<string name="menus_countries">Países</string>
+	<string name="menus_states">Estados</string>
+	<string name="menus_cities">Cidades</string>
+	<string name="menus_files">Arquivos</string>
+	<string name="menus_persons_categories_types">Categorias de Pessoas</string>
+	<string name="menus_userslogs_types">Histórico de Usuário</string>
+	<string name="menus_transactions_types">Transações tipos</string>
+	<string name="menus_urls">URLs</string>
+	<string name="menus_blog">Blog</string>
+	<string name="menus_blog_principal">Principal</string>
+	<string name="menus_blog_post_new">Novo Post</string>
+	<string name="menus_blog_categories">Categorias</string>
+	<string name="menus_blog_tags">Tags</string>
+	<string name="menus_blog_comments">Comentários</string>
+	
+
+	<string name="contact_type">E-mail</string>
+	<string name="phone_type">Telefone</string>
+	<string name="home_type">Casa</string>
+	<string name="work_type">Trabanho</string>
+	<string name="cell_phone_type">Celular</string>
+	<string name="fax_type">Fax</string>
+	<string name="other_type">Outro</string>
+	<string name="personal_type">Pessoal</string>
+	<string name="work_type">Trabalho</string>
+	<string name="other_type_email">Outro</string>
+
+	<string name="address_residencial">Residencial</string>
+	<string name="address_comercial">Comercial</string>
+	<string name="address_cobranca">Cobrança</string>
+	<string name="address_entrega">Entrega</string>
+
+	<string name="permissions_user">Super Usuário</string>
+	<string name="permissions_admin">Acesso Administrativo</string>
+	<string name="permissions_client">Acesso Autenticado de Cliente</string>
+
+	<string name="coupon_value">Valor Fixo</string>
+	<string name="coupon_percentage">Porcentagem</string>
+	<string name="gateway_pagseguro">PagSeguro</string>
+	<string name="gateway_visa">Visa</string>
+	<string name="gateway_mastercard">MasterCard</string>
+	<string name="gateway_dinerclub">Diners Club</string>
+	<string name="gateway_amex">Amex</string>
+	<string name="gateway_hipercard">HiperCard</string>
+	<string name="gateway_aura">Aura</string>
+	<string name="gateway_elo">Elo</string>
+	<string name="gateway_boleto">Boleto</string>
+	<string name="gateway_debito_itau">Débito Online Itaú</string>
+	<string name="gateway_debito_brasil">Débito Online Banco do Brasil</string>
+	<string name="gateway_debito_banrisul">Débito Online Banco Banrisul</string>
+	<string name="gateway_debito_bradesco">Débito Online Banco Bradesco</string>
+	<string name="gateway_debito_hsbc">Débito Online Banco HSBC</string>
+	<string name="gateway_plenocard">PlenoCard</string>
+	<string name="gateway_personalcard">PersonalCard</string>
+	<string name="gateway_jbc">JCB</string>
+	<string name="gateway_discover">Discover</string>
+	<string name="gateway_brasilcard">BrasilCard</string>
+	<string name="gateway_fortbrasil">FortBrasil</string>
+	<string name="gateway_cardban">CardBan</string>
+	<string name="gateway_valecard">ValeCard</string>
+	<string name="gateway_cabal">Cabal</string>
+	<string name="gateway_mais">Mais</string>
+	<string name="gateway_avista">Avista</string>
+	<string name="gateway_grandcard">GRANDCARD</string>
+	<string name="gateway_sorocred">Sorocred</string>
+
+	<string name="statu_order">Aguardando Pedido</string>
+	<string name="statu_analysis">Em análise</string>
+	<string name="statu_paid">Pago</string>
+	<string name="statu_available">Disponível</string>
+	<string name="statu_dispute">Em disputa</string>
+	<string name="statu_returned">Devolvido</string>
+	<string name="statu_canceled">Cancelado</string>
+
+	<string name="placetype_district">Bairro</string>
+	<string name="placetype_city">Cidade</string>
+	<string name="placetype_state">Estado</string>
+	<string name="placetype_country">País</string>
+	<string name="placetype_companies">Empresas</string>
+
+	<string name="place_hcode">Hcode</string>
+
+	<string name="placetype_hcode_address">Rua Ademar Saraiva Leão</string>
+	<string name="placetype_hcode_number">234</string>
+	<string name="placetype_hcode_district">Alvarenga</string>
+	<string name="placetype_hcode_city">São Bernardo do Campo</string>
+	<string name="placetype_hcode_state">São Paulo</string>
+	<string name="placetype_hcode_country">Brasil</string>
+	<string name="placetype_hcode_cep">09853120</string>
+
+	<string name="configtype_string">STRING</string>
+	<string name="configtype_int">INT</string>	
+	<string name="configtype_float">FLOAT</string>	
+	<string name="configtype_boolean">BOOL</string>	
+	<string name="configtype_datetime">DATETIME</string>
+	<string name="configtype_object">OBJECT</string>
+
+	<string name="config_admin_name">ADMIN_NAME</string>		
+	<string name="config_admin_name_value">Default Admin</string>
+	<string name="config_admin_name_description">Nome visual da administração.</string>
+
+	<string name="config_upload_dir">UPLOAD_DIR</string>		
+	<string name="config_upload_dir_value">/res/uploads/</string>
+	<string name="config_upload_dir_description">Diretório padrão para uploads de arquivos.</string>
+
+	<string name="config_upload_mimetype">UPLOAD_MIME_TYPE</string>
+	<string name="config_upload_mimetype_description">Tipos de arquivos permitidos para fazer upload.</string>
+
+	<string name="config_upload_max_filesize">UPLOAD_MAX_FILESIZE</string>
+	<string name="config_upload_max_filesize_description">Tamanho máximo permitido para upload de arquivos em bytes.</string>
+
+	<string name="config_google_map_key">GOOGLE_MAPS_KEY</string>
+	<string name="google_map_key">AIzaSyAgIx0HyLRKgvY38HRWrixjPviokLaUtbE</string>	
+	<string name="config_google_map_key_description">Chave de acesso ao plugin do Google Maps</string>
+
+	<string name="state_AC">Acre</string>
+	<string name="state_AL">Alagoas</string>
+	<string name="state_AM">Amazonas</string>
+	<string name="state_AP">Amapá</string>
+	<string name="state_BA">Bahia</string>
+	<string name="state_CE">Ceará</string>
+	<string name="state_DF">Distrito Federal</string>
+	<string name="state_ES">Espírito Santo</string>
+	<string name="state_GO">Goiás</string>
+	<string name="state_MA">Maranhão</string>
+	<string name="state_MG">Minas Gerais</string>
+	<string name="state_MS">Mato Grosso do Sul</string>
+	<string name="state_MT">Mato Grosso</string>
+	<string name="state_PA">Pará</string>
+	<string name="state_PB">Paraíba</string>
+	<string name="state_PE">Pernambuco</string>
+	<string name="state_PI">Piauí</string>
+	<string name="state_PR">Paraná</string>
+	<string name="state_RJ">Rio de Janeiro</string>
+	<string name="state_RN">Rio Grande do Norte</string>
+	<string name="state_RO">Rondônia</string>
+	<string name="state_RR">Roraima</string>
+	<string name="state_RS">Rio Grande do Sul</string>
+	<string name="state_SC">Santa Catarina</string>
+	<string name="state_SE">Sergipe</string>
+	<string name="state_SP">São Paulo</string>
+	<string name="state_TO">Tocantins</string>
+
+	<string name="data_nascimento">dtnascimento</string>
+	<string name="sexo">dessexo</string>
+	<string name="foto">desfoto</string>
+	<string name="fotoDepoimento">desfotodepoimento</string>
+	<string name="fotoFuncionario">desfotofuncionario</string>
+
+	<string name="negotiation_estimate">Em orçamento</string>
+	<string name="negotiation_sale">Venda</string>
+
+	<string name="person_cliente">Cliente</string>
+	<string name="person_fornecedor">Fornecedor</string>
+	<string name="person_colaborador">Colaborador</string>
+	<string name="person_funcionario">Funcionário</string>
+
+	<string name="sitesmenus_home">Home</string>
+	<string name="sitesmenus_contact">Contato</string>
+	<string name="sitesmenus_blog">Blog</string>
+
+	<string name="menus_emails">Serviço de E-mails</string>
+
+	<string name="transaction_debito">Débito</string>
+	<string name="transaction_credito">Crédito</string>
+	
+</resources>
