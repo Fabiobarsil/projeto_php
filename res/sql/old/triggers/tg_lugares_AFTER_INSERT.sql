@@ -1,4 +1,0 @@
-CREATE DEFINER = CURRENT_USER TRIGGER tg_lugares_AFTER_INSERT AFTER INSERT ON tb_lugares FOR EACH ROW
-BEGIN
-	CALL sp_lugaresdados_save(NEW.idlugar);
-END
